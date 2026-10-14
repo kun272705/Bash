@@ -1,2 +1,6 @@
 Primitive types
 
+integer
+
+string
+
