@@ -1,6 +1,5 @@
 Primitive types
 
 integer
-
 string
 
