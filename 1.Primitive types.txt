@@ -1,8 +1,2 @@
 Primitive types
 
-integer
-
-boolean
-
-string
-
