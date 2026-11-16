@@ -4,5 +4,3 @@ string
 
 integer
 
-boolean
-
