@@ -2,5 +2,7 @@ Primitive types
 
 string
 
+return status
+
 integer
 
