@@ -1,5 +1,13 @@
 Operators
 
+List operators
+
+new line
+;
+&
+&&
+||
+
 Arithmetic operators
 
 id++ id--
