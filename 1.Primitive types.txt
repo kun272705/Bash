@@ -2,5 +2,11 @@ Primitive types
 
 parameter
 
+A parameter is an entity that stores values.
+
 exit status
+
+The exit status of an executed command is the value returned by the waitpid system call or equivalent function.
+
+Exit statuses fall between 0 and 255. An exit status of zero indicates success, a non-zero exit status indicates failure.
 
