@@ -1,6 +1,6 @@
 Primitive types
 
-exit status
+parameter
 
-string
+exit status
 
