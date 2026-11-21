@@ -1,2 +1,20 @@
 Operators
 
+Integer arithmetic operators
+
+Integer expression expansion operator
+
+integer comparison operators
+
+Integer expression evaluation operator
+
+String quoting operators
+
+String substitution operators
+
+String comparison operators
+
+Path testing operators
+
+Path expression evaluation operator
+
