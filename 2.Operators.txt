@@ -128,7 +128,7 @@ new line
 &&
 ||
 
-Grouping operators
+Group operators
 
 (list)
 { list; }
