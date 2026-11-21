@@ -2,7 +2,7 @@ Operators
 
 Integer arithmetic operators
 
-Integer expression evaluation operator
+Integer arithmetic expression evaluation operator
 
 integer comparison operators
 
