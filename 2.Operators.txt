@@ -65,7 +65,7 @@ String comparison operators
 <
 >
 
-String matching operator
+String regexp matching operator
 
 =~
 
