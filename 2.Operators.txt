@@ -2,9 +2,9 @@ Operators
 
 Integer arithmetic operators
 
-Integer arithmetic expression evaluation operator
-
 integer comparison operators
+
+Integer arithmetic expression evaluation operator
 
 Integer conditional expression evaluation operator
 
