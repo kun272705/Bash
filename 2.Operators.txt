@@ -12,7 +12,23 @@ Logical operators
 
 Integer arithmetic operators
 
+++
+--
++
+-
+*
+/
+%
+**
+
 Integer bitwise operators
+
+&
+|
+^
+<<
+>>
+~
 
 Integer comparison operators
 
@@ -33,9 +49,22 @@ Integer conditional expression evaluation operator
 
 String quoting operators
 
+\
+'
+"
+
 String substitution operators
 
 String comparison operators
+
+==
+!=
+<
+>
+
+String matching operator
+
+=~
 
 String conditional expression evaluation operator
 
