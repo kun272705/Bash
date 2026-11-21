@@ -44,11 +44,11 @@ Integer comparison operators
 
 Integer expression expansion operator
 
-$(( expression ))
+$((expression))
 
 Integer conditional expression evaluation operator
 
-(( expression ))
+((expression))
 
 String quoting operators
 
@@ -65,6 +65,11 @@ String comparison operators
 <
 >
 
+String testing operators
+
+-z string
+-n string
+
 String regexp matching operator
 
 =~
@@ -73,9 +78,34 @@ String conditional expression evaluation operator
 
 [[ expression ]]
 
-Path testing operators
+File testing operators
 
-Path conditional expression evaluation operator
+-a file
+-b file
+-c file
+-d file
+-e file
+-f file
+-g file
+-h file
+-k file
+-p file
+-r file
+-s file
+-t fd
+-u file
+-w file
+-x file
+-G file
+-L file
+-N file
+-O file
+-S file
+file1 -ef file2
+file1 -nt file2
+file1 -ot file2
+
+File conditional expression evaluation operator
 
 [[ expression ]]
 
@@ -100,6 +130,6 @@ new line
 
 Grouping operators
 
-()
-{}
+(list)
+{ list; }
 
