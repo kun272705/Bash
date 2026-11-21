@@ -6,7 +6,7 @@ Integer expression expansion operator
 
 integer comparison operators
 
-Integer expression evaluation operator
+Integer conditional expression evaluation operator
 
 String quoting operators
 
@@ -14,7 +14,19 @@ String substitution operators
 
 String comparison operators
 
+String conditional expression evaluation operator
+
 Path testing operators
 
-Path expression evaluation operator
+Path conditional expression evaluation operator
+
+Command evaluation operator
+
+Redirection operators
+
+Pipeline operators
+
+List operators
+
+Grouping operators
 
