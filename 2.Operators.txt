@@ -24,11 +24,11 @@ Path logical expression evaluation operator
 
 Command evaluation operator
 
-Redirection operators
+Command redirection operators
 
-Pipeline operators
+Command pipeline operators
 
 Command list operators
 
-Grouping operators
+Command grouping operators
 
