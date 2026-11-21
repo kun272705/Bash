@@ -56,7 +56,7 @@ String quoting operators
 '
 "
 
-String substitution operators
+String expansion operators
 
 ${parameter:-word}
 ${parameter:=word}
