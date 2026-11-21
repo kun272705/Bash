@@ -10,6 +10,10 @@ Logical operators
 &&
 ||
 
+Conditional expression evaluation operator
+
+[[ expression ]]
+
 Integer arithmetic operators
 
 +
@@ -35,20 +39,16 @@ Integer bitwise operators
 
 Integer comparison operators
 
-==
-!=
-<
-<=
->
->=
+-eq
+-ne
+-lt
+-le
+-gt
+-ge
 
 Integer expression expansion operator
 
 $((expression))
-
-Integer conditional expression evaluation operator
-
-((expression))
 
 String quoting operators
 
@@ -99,10 +99,6 @@ String testing operators
 -z string
 -n string
 
-String conditional expression evaluation operator
-
-[[ expression ]]
-
 File testing operators
 
 -a file
@@ -129,10 +125,6 @@ File testing operators
 file1 -ef file2
 file1 -nt file2
 file1 -ot file2
-
-File conditional expression evaluation operator
-
-[[ expression ]]
 
 Command substitution operator
 
