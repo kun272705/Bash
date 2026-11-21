@@ -58,6 +58,31 @@ String quoting operators
 
 String substitution operators
 
+${parameter:-word}
+${parameter:=word}
+${parameter:?word}
+${parameter:+word}
+${parameter:offset}
+${parameter:offset:length}
+${!prefix*}
+${!prefix@}
+${!name[@]}
+${!name[*]}
+${#parameter}
+${parameter#word}
+${parameter##word}
+${parameter%word}
+${parameter%%word}
+${parameter/pattern/string}
+${parameter//pattern/string}
+${parameter/#pattern/string}
+${parameter/%pattern/string}
+${parameterˆpattern}
+${parameterˆˆpattern}
+${parameter,pattern}
+${parameter,,pattern}
+${parameter@operator}
+
 String comparison operators
 
 ==
