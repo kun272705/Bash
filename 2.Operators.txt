@@ -10,11 +10,29 @@ Integer bitwise operators
 
 Integer comparison operators
 
+Integer expression expansion operator
+
+Integer conditional expression evaluation operator
+
 String quoting operators
 
 String substitution operators
 
 String comparison operators
 
+String conditional expression evaluation operator
+
 Path testing operators
+
+Path conditional expression evaluation operator
+
+Command substitution operator
+
+Redirection operators
+
+Pipeline operators
+
+List operators
+
+Grouping operators
 
