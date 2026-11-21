@@ -103,7 +103,7 @@ String conditional expression evaluation operator
 
 [[ expression ]]
 
-File and file descriptor testing operators
+File testing operators
 
 -a file
 -b file
@@ -130,7 +130,7 @@ file1 -ef file2
 file1 -nt file2
 file1 -ot file2
 
-File and file descriptor conditional expression evaluation operator
+File conditional expression evaluation operator
 
 [[ expression ]]
 
