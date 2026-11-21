@@ -1,5 +1,7 @@
 Operators
 
+Logical operators
+
 Integer arithmetic operators
 
 Integer arithmetic expression evaluation operator
