@@ -12,14 +12,17 @@ Logical operators
 
 Integer arithmetic operators
 
-++
---
 +
 -
 *
 /
 %
 **
+
+Integer increment and decrement operators
+
+++
+--
 
 Integer bitwise operators
 
