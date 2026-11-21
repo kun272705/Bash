@@ -8,7 +8,7 @@ Integer arithmetic expression evaluation operator
 
 integer comparison operators
 
-Integer conditional expression evaluation operator
+Integer logical expression evaluation operator
 
 String quoting operators
 
@@ -16,11 +16,11 @@ String substitution operators
 
 String comparison operators
 
-String conditional expression evaluation operator
+String logical expression evaluation operator
 
 Path testing operators
 
-Path conditional expression evaluation operator
+Path logical expression evaluation operator
 
 Command evaluation operator
 
