@@ -2,7 +2,13 @@ Operators
 
 Assignment operator
 
+=
+
 Logical operators
+
+!
+&&
+||
 
 Integer arithmetic operators
 
@@ -10,9 +16,20 @@ Integer bitwise operators
 
 Integer comparison operators
 
+==
+!=
+<
+<=
+>
+>=
+
 Integer expression expansion operator
 
+$(( expression ))
+
 Integer conditional expression evaluation operator
+
+(( expression ))
 
 String quoting operators
 
@@ -22,17 +39,35 @@ String comparison operators
 
 String conditional expression evaluation operator
 
+[[ expression ]]
+
 Path testing operators
 
 Path conditional expression evaluation operator
 
+[[ expression ]]
+
 Command substitution operator
+
+$(command)
 
 Redirection operators
 
 Pipeline operators
 
+|
+|&
+
 List operators
 
+new line
+;
+&
+&&
+||
+
 Grouping operators
+
+()
+{}
 
