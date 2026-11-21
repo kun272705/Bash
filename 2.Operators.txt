@@ -1,6 +1,6 @@
 Operators
 
-Logical operators
+Boolean operators
 
 Integer arithmetic operators
 
@@ -8,7 +8,7 @@ Integer arithmetic expression evaluation operator
 
 integer comparison operators
 
-Integer logical expression evaluation operator
+Integer boolean expression evaluation operator
 
 String quoting operators
 
@@ -16,11 +16,11 @@ String substitution operators
 
 String comparison operators
 
-String logical expression evaluation operator
+String boolean expression evaluation operator
 
 Path testing operators
 
-Path logical expression evaluation operator
+Path boolean expression evaluation operator
 
 Command evaluation operator
 
