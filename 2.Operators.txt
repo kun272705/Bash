@@ -65,14 +65,14 @@ String comparison operators
 <
 >
 
+String regexp matching operator
+
+=~
+
 String testing operators
 
 -z string
 -n string
-
-String regexp matching operator
-
-=~
 
 String conditional expression evaluation operator
 
