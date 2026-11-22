@@ -154,6 +154,11 @@ Path tilde expansion operators
 ~+/foo
 ~-/foo
 
+Process Substitution operators
+
+<(list)
+>(list)
+
 Command substitution operator
 
 $(command)
