@@ -153,9 +153,6 @@ Path tilde expansion operators
 ~fred/foo
 ~+/foo
 ~-/foo
-~N
-~+N
-~-N
 
 Command substitution operator
 
