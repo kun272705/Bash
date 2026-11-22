@@ -94,7 +94,8 @@ $"message"
 String brace expansion operators
 
 {a series of comma-separated strings}
-{x..y[..incr]}
+{x..y}
+{x..y..incr}
 
 String comparison operators
 
@@ -167,6 +168,9 @@ Process substitution operators
 Redirection operators
 
 0<file
+0<<delimiter
+	document
+dellimiter
 0<<-delimiter
 	document
 dellimiter
