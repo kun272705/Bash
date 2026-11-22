@@ -46,6 +46,10 @@ Integer comparison operators
 -gt
 -ge
 
+Integer ternary conditional operator
+
+expr ? if-true-expr : if-false-expr
+
 Integer expression expansion operator
 
 $((expression))
