@@ -96,6 +96,11 @@ String brace expansion operators
 {a series of comma-separated strings}
 {x..y[..incr]}
 
+String testing operators
+
+-z string
+-n string
+
 String comparison operators
 
 ==
@@ -106,11 +111,6 @@ String comparison operators
 String regexp matching operator
 
 =~
-
-String testing operators
-
--z string
--n string
 
 String conditional expression evaluation operator
 
@@ -155,16 +155,16 @@ Path tilde expansion operators
 ~+/foo
 ~-/foo
 
+Command substitution operator
+
+$(command)
+
 Process substitution operators
 
 <(list)
 >(list)
 
-Command substitution operator
-
-$(command)
-
-Command redirection operators
+Redirection operators
 
 0<file
 1>file
@@ -176,12 +176,12 @@ Command redirection operators
 1>&2
 2>&1
 
-Command pipeline operators
+Pipeline operators
 
 |
 |&
 
-Command list operators
+List operators
 
 new line
 ;
@@ -189,7 +189,7 @@ new line
 &&
 ||
 
-Command group operators
+Grouping operators
 
 (list)
 { list; }
