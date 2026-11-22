@@ -83,6 +83,9 @@ ${parameter,pattern}
 ${parameter,,pattern}
 ${parameter@operator}
 
+String locale-specific translation operator
+$"message"
+
 String comparison operators
 
 ==
