@@ -46,6 +46,10 @@ Integer ternary conditional operator
 
 expr ? if-true-expr : if-false-expr
 
+Integer brace expansion operator
+
+{x..y[..incr]}
+
 Integer expression expansion operator
 
 $((expression))
