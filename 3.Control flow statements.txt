@@ -1,21 +1,26 @@
 Control flow statements
 
-if test-commands; then
-  consequent-commands;
-[elif more-test-commands; then
-  more-consequents;]
-[else alternate-consequents;]
-fi
+Conditional statements
 
-case word in
-    [ [(] pattern [| pattern]...) command-list ;;]...
-esac
+if
 
-for name [ [in words ...] ; ] do commands; done
+Branching statements
 
-for (( expr1 ; expr2 ; expr3 )) [;] do commands ; done
+case
 
-while test-commands; do consequent-commands; done
+Sequence-based looping statements
 
-until test-commands; do consequent-commands; done
+for
+
+Condition-based looping statements
+
+for
+while
+until
+
+Jump statements
+
+break
+continue
+return
 
