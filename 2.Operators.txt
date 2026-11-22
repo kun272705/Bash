@@ -173,8 +173,6 @@ Redirection operators
 1>>file
 2>>file
 &>>file
-1>&2
-2>&1
 
 Pipeline operators
 
