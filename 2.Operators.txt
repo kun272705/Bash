@@ -42,7 +42,7 @@ Integer comparison operators
 >
 >=
 
-Integer conditional operator
+Integer ternary conditional operator
 
 expr ? if-true-expr : if-false-expr
 
