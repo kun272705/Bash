@@ -4,7 +4,7 @@ Assignment operator
 
 =
 
-Logical operators
+Boolean operators
 
 !
 &&
