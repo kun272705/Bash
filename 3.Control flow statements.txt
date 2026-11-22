@@ -1,24 +1,24 @@
 Control flow statements
 
-Conditional statements
+Conditional branch
 
 if
 
-Branching statements
+Multiway branch
 
 case
 
-Sequence-based looping statements
+Numeric loop
 
 for
 
-Condition-based looping statements
+Condition-controlled loops
 
 for
 while
 until
 
-Jump statements
+Jumps
 
 break
 continue
