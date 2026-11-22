@@ -93,7 +93,7 @@ $"message"
 String brace expansion operators
 
 {a series of comma-separated strings}
-{x..y[..incr]}
+{start..stop[..increment]}
 
 String comparison operators
 
