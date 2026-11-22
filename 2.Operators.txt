@@ -146,6 +146,17 @@ File conditional expression evaluation operator
 
 [[ expression ]]
 
+Path tilde expansion operators
+
+~
+~/foo
+~fred/foo
+~+/foo
+~-/foo
+~N
+~+N
+~-N
+
 Command substitution operator
 
 $(command)
