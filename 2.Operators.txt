@@ -150,14 +150,14 @@ Command substitution operator
 
 $(command)
 
-Redirection operators
+Command redirection operators
 
-Pipeline operators
+Command pipeline operators
 
 |
 |&
 
-List operators
+Command list operators
 
 new line
 ;
@@ -165,7 +165,7 @@ new line
 &&
 ||
 
-Group operators
+Command group operators
 
 (list)
 { list; }
