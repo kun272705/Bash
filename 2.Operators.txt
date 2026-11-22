@@ -53,8 +53,8 @@ $((expression))
 String quoting operators
 
 \
-'
-"
+single quotes
+double quotes
 
 String expansion operators
 
