@@ -167,6 +167,13 @@ Process substitution operators
 Redirection operators
 
 0<file
+0<<-delimiter
+	document
+dellimiter
+0<<-\delimiter
+	document
+dellimiter
+0<<<string
 1>file
 2>file
 &>file
